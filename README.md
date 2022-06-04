@@ -64,7 +64,7 @@ ______________________________________________________________
 - [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_TTT-hEMAHql7nyideGHkZWRCOqnPQu7atg&usqp=CAU" alt="#" width="40" height="30"/>](https://nodejs.org/en/)
 - [<img src="https://walde.co/wp-content/uploads/2016/08/npm-coaster.png" alt="#" width="40" height="30"/>](https://www.npmjs.com/)
 - [<img src="https://miro.medium.com/max/1024/1*wPKZnE6XTw-wtH2k-KARPg.png" alt="#" width="40" height="30"/>](https://expo.dev/)
-- [<img src="#" alt="#" width="40" height="40"/>](link)
+
 ## 📁 Acesso ao Projeto 
 
 #### Devido a problemas no celular não consegui obter uma foto da aplicação
